@@ -16,7 +16,7 @@ const Loader = ({data, setLoading}) => {
         <>
         <h3>Thank You... You have already subscribed us</h3>
         <img src={img} alt="" />
-        <button className='pri-btn'><a target='_blank' href="https://drive.google.com/uc?export=download&id=1a5y5aJ56eRKT2VdOhthfoWwse0yLWWMC">Download</a> </button>
+      <a  className='pri-btn'  href="https://drive.google.com/uc?export=download&id=1a5y5aJ56eRKT2VdOhthfoWwse0yLWWMC">Download</a> 
         </>
 
 
