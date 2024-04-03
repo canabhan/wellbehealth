@@ -1,13 +1,12 @@
 
 import './App.css'
-import KetoPro from './component/ketopro/KetoPro'
-import Main from './component/main/main'
-
+import Hero from './component/Hero/Hero';
+import KetoPro from './component/ketopro/KetoPro';
 function App() {
 
   return (
     <>
-    <Main/>
+    <Hero/>
     <KetoPro/>
     </>
   )

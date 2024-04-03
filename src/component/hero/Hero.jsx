@@ -1,6 +1,6 @@
 import React from 'react'
-import './main.css'
-const Main = () => {
+import './hero.css'
+const Hero = () => {
   return (
     <div className="main">
 
@@ -18,4 +18,4 @@ const Main = () => {
   )
 }
 
-export default Main
+export default Hero
