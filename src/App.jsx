@@ -1,6 +1,6 @@
 
 import './App.css'
-import Hero from './component/Hero/Hero';
+import Hero from './component/heroSection/Hero';
 import KetoPro from './component/ketopro/KetoPro';
 function App() {
 
