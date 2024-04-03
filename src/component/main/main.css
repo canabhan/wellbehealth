@@ -1,0 +1,54 @@
+.main{
+    background-color:#627254 ;
+    
+    .main-section{
+        min-height: 400px;
+        height: 100%;
+        padding: 1rem 0;
+        width: 100%;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+    .info{
+    text-align: center;
+    color: white;
+
+    h1{
+        font-size: 4.5rem;
+        line-height: 1;
+        font-weight: 600;
+        span{
+        font-size: 3rem;
+        line-height: 1;
+        font-weight: 500;
+        }
+    }
+    .span{
+        padding: 8px 16px;
+        background-color: white;
+        color: #627254;
+        border-radius: 5px;
+        display: inline-block;
+        margin-bottom: 16px;
+    }
+    }
+}
+}
+@media screen and (max-width: 596px){
+    .main-section{
+        .info{
+
+        
+    h1{
+        font-size: 3.5rem !important;
+        line-height: 1 !important;
+        font-weight: 600;
+        span{
+        font-size: 2rem !important;
+        line-height: 0.8 !important;
+        font-weight: 500;
+        }
+    }
+}
+}
+}
