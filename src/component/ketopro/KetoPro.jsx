@@ -85,9 +85,9 @@ const KetoPro = () => {
               <div className="box">
                 <form className='form' ref={formRef} onSubmit={handleSubmit} name="google-sheet">
                 <label for="fname">First Name</label>
-                <input type="text" id='name' name="Name" placeholder="Your name.."/>
+                <input type="text" id='name' name="Name" required placeholder="Your name.."/>
                 <label for="fname">Email</label>
-                <input type="email"  name="Email" placeholder="Your email.."/>
+                <input type="email"  name="Email" required placeholder="Your email.."/>
 
                 <input type="submit" name='submit' value="Get Free Ebook"/>
 
