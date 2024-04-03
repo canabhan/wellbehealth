@@ -63,21 +63,33 @@ const KetoPro = () => {
             <div className="ketopro">
              <h2>Get Keto Products</h2>
               <table>
-                <tr>
-                  <td>custom keto</td>
-                  <td className='btn'>click here</td>
+              <tr>
+                  <td>Custom Keto Diet</td>
+                  <td className='btn'> <a target='_blank' href="https://www.digistore24.com/redir/434557/nabhanca/">click here</a></td>
                 </tr>
                 <tr>
-                  <td>custom keto</td>
-                  <td className='btn'>click here</td>
+                  <td>The Ultimate Keto Meal Plan</td>
+                  <td className='btn'> <a target='_blank' href="https://www.claudiacaldwell.com/oto-uf61a?el=splittest-1214-bradflow-control#aff=nabhanca">click here</a></td>
+                </tr>
+                <tr>
+                  <td> The Keto Snacks Cookbook</td>
+                  <td className='btn'> <a target='_blank' href="https://www.digistore24.com/redir/400534/nabhanca/">click here</a></td>
                 </tr>               
                 <tr>
-                  <td>custom keto</td>
-                  <td className='btn'>click here</td>
+                  <td>The Essential Keto Cookbook</td>
+                  <td className='btn'> <a target='_blank' href="https://www.digistore24.com/redir/269221/nabhanca/">click here</a></td>
                 </tr>
                 <tr>
-                  <td>custom keto</td>
-                  <td className='btn'>click here</td>
+                  <td>The Keto Air Fryer Cookbook</td>
+                  <td className='btn'> <a target='_blank' href="https://www.digistore24.com/redir/411008/nabhanca/">click here</a></td>
+                </tr>
+                <tr>
+                  <td>Keto Desserts</td>
+                  <td className='btn'> <a target='_blank' href="https://www.digistore24.com/redir/292043/nabhanca/">click here</a></td>
+                </tr>
+                <tr>
+                  <td>BACK TO BASIC</td>
+                  <td className='btn'> <a target='_blank' href="https://www.digistore24.com/redir/405503/nabhanca/">click here</a></td>
                 </tr>
               </table>
              <h2>Get Free Ebook</h2>
