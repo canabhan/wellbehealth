@@ -8,8 +8,8 @@ const Hero = () => {
     <div className="main-section">
 
         <div className='info'>
-            <span className='span'>Get Your Ebook</span>
-            <h1>The Keto Blueprint: <br /><span> Your Roadmap to Success on the Ketogenic Diet</span> </h1>
+            {/* <span className='span'>Get Your Ebook</span> */}
+            <h1>A Meaningful Relationship: <br /><span>" Happy is the man who finds a true friend , and far happier is he who finds that true firend in his wife "</span> </h1>
         </div>
         </div>
         </div>
